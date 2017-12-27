@@ -1,5 +1,2 @@
- [
-  {  "userName": "Akram Tamboli","email":"akram.tamboli@tieto.com","password" :"ak" },
-  { "userName": "Vinayak Ahire","email":"vinayak.ahire@tieto.com","password" :"va" },
-  { "userName": "Anil Rathod","email":"anil.rathod@tieto.com","password" :"ar" }
-]
+ 
+  {  "userName": "Akram Tamboli","email":"akram.tamboli@tieto.com","password" :"ak" }
